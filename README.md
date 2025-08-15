@@ -1,7 +1,7 @@
 
 # 📝 MyTodo Application
 
-**Developed by Eng. Eslam Ali**
+**Developed by Eng. Eslam Alejil**
 
 ---
 
