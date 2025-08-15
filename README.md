@@ -83,6 +83,6 @@ It features an elegant UI, smooth interactions, and a robust architecture, integ
 
 ## 📬 Contact
 📧 Email: eslamalajil@gmail.com 
-🔗 LinkedIn: [Your LinkedIn](www.linkedin.com/in/eslam-alajil-71a138379)  
-💻 GitHub: [Your GitHub](https://github.com/Eslam-78)  
+🔗 LinkedIn: [Follow Me](www.linkedin.com/in/eslam-alajil-71a138379)  
+💻 GitHub: [Follow Me](https://github.com/Eslam-78)  
 
