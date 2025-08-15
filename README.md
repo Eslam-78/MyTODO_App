@@ -66,13 +66,18 @@ It features an elegant UI, smooth interactions, and a robust architecture, integ
 ---
 
 ## 📸 Screenshots
-| Home Screen | Focus Mode | Task Management |
-|-------------|------------|-----------------|
-| ![Home](https://github.com/Eslam-78/MyTODO_App/blob/main/assets/screenshots/HomeScreen.jpg?raw=true) | ![Focus](https://github.com/Eslam-78/MyTODO_App/blob/main/assets/screenshots/FocusModeScreen.jpg?raw=true) | ![Task](https://github.com/Eslam-78/MyTODO_App/blob/main/assets/screenshots/TaskManagmentsScreen.jpg?raw=true) |
 
-| Achievements | Settings |
-|--------------|----------|
-| ![Achievements](https://github.com/Eslam-78/MyTODO_App/blob/main/assets/screenshots/AchievementsScreen.jpg?raw=true) | ![Settings](https://github.com/Eslam-78/MyTODO_App/blob/main/assets/screenshots/SettingsScreen.jpg?raw=true) |
+<p align="center">
+  <img src="https://github.com/Eslam-78/MyTODO_App/blob/main/assets/screenshots/HomeScreen.jpg?raw=true" alt="Home Screen" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/Eslam-78/MyTODO_App/blob/main/assets/screenshots/FocusModeScreen.jpg?raw=true" alt="Focus Mode" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/Eslam-78/MyTODO_App/blob/main/assets/screenshots/TaskManagmentsScreen.jpg?raw=true" alt="Task Management" width="200" style="margin: 10px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Eslam-78/MyTODO_App/blob/main/assets/screenshots/AchievementsScreen.jpg?raw=true" alt="Achievements" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/Eslam-78/MyTODO_App/blob/main/assets/screenshots/SettingsScreen.jpg?raw=true" alt="Settings" width="200" style="margin: 10px;"/>
+</p>
+
 
 
 > Actual screenshots will be added later after installing and capturing the app.
