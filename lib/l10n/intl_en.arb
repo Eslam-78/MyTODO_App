@@ -1,0 +1,317 @@
+{
+  "@@locale": "en",
+ 
+  "lightTheme": "Light",
+  "darkTheme": "Dark",
+  "systemTheme": "System",
+
+  
+  "homePage": "Home",
+  "nearbyTasks": "Nearby Tasks",
+  "viewAll": "View All",
+  "searchTasks": "Search tasks...",
+  "currentTasks": "Current Tasks",
+  "goodMorning": "Good Morning",
+  "goodEvening": "Good Evening",
+  "completed": "Completed",
+  "remaining": "Remaining",
+  "streak": "Streak",
+  "days": "Days",
+  "turnChecked": "Task marked as completed",
+  "turnUnchecked": "Task marked as incomplete",
+  "weeklyTasks": "Weekly Tasks",
+  "thisWeekStats": "This Week",
+  "yourProgress": "Your Progress",
+  "taskCategories": "Task Categories",
+  "taskStatus": "Task Status",
+  "yourTasks": "Your Tasks",
+
+ 
+  "achievements": "Achievements",
+  "all": "All",
+  "incomplete": "Incomplete",
+  "noIncompleteBadges": "No incomplete badges available",
+  "level": "Level",
+  "currentStreak": "Current Streak",
+  "bestStreak": "Best Streak",
+  "lockedBadge": "Locked Badge",
+  "congratsBadge": "Congratulations! You earned this badge!\nWith XP:",
+  "unlockRequirement": "Complete requirements to unlock",
+  "unlockConditions": "Unlock Requirements:",
+  "requiredLevel": "Required Level:",
+  "okay": "Okay",
+  "completeTasksPrompt": "Complete tasks to unlock new achievements!",
+  "noAchievements": "No achievements yet",
+  "opened":"Opened",
+  "closed":"Closed",
+
+ 
+  "settings": "Settings",
+  "arabic": "Arabic",
+  "english": "English",
+  "profileSettings": "Profile Settings",
+  "editProfile": "Edit Profile",
+  "reminderTime": "Reminder Time",
+  "appSettings": "App Settings",
+  "themeMode": "Theme Mode",
+  "language": "Language",
+  "dailyReminders": "Daily Reminders",
+  "appInfo": "App Information",
+  "version": "Version",
+  "builtWith": "Built with",
+  "privacyPolicy": "Privacy Policy",
+  "termsOfUse": "Terms of Use",
+  "pressToView": "Press to view",
+  "resetApp": "Reset App",
+  "resetConfirmation": "Are you sure you want to reset all settings and data?",
+  "cancel": "Cancel",
+  "resetSuccess": "Reset successfully completed",
+  "confirm": "Confirm",
+
+  
+  "focusMode": "Focus Mode",
+  "focusSettings": "Focus Settings",
+  "focusDuration": "Focus Duration (minutes)",
+  "shortBreak": "Short Break (minutes)",
+  "longBreak": "Long Break (minutes)",
+  "save": "Save",
+  "endFocusMode": "End Focus Mode",
+  "completedSessions": "Completed Sessions",
+  "totalSessions": "Total Sessions",
+  "minutes":"Minutes",
+  "startConfirm":"Ready To Start",
+  "runTimeProgress":"Running Time",
+  "breakTimeProgress":"Break Time",
+  "focusDurationTime": "Focus Duration:",
+  "shortBreakTime":"Short Break",
+  "longBreakTime":"Long Break",
+
+  
+
+
+ 
+  "tasksManagement": "Tasks Management",
+  "addNewTask": "Add New Task",
+  "taskTitle": "Task Title",
+  "taskDescription": "Task Description (optional)",
+  "add": "Add",
+  "update": "Update",
+  "taskUpdated": "Task updated successfully",
+  "taskAdded": "Task added successfully",
+  "noTasksFound": "No tasks found!",
+  "pending": "Pending",
+  "priority":"Priority Level",
+  "selectDueDate": "Select Due Date",
+  "pleaseSelectDueDate": "Please select a due date",
+  "pleaseSelectPriority": "Please select a priority level",
+  "pleaseEnterTitle": "Please enter a task title",
+  "category": "Category",
+  "selectCategory": "Select Category",
+  
+  
+
+  
+  "taskDetails": "Task Details",
+  "description": "Description:",
+  "inProgress": "In Progress",
+  "dateInfo": "Date Information:",
+  "createdDate": "Created Date:",
+  "dueDate": "Due Date:",
+  "completedDate": "Completed Date:",
+  "editTask": "Edit Task",
+  "markComplete": "Mark as Complete",
+  "reopen": "Reopen",
+  "taskReopened": "Task reopened",
+  "taskCompleted": "Task completed successfully",
+  "deleteTask": "Delete Task",
+  "deleteConfirmation": "Are you sure you want to delete this task?",
+  "taskDeleted": "Task deleted successfully",
+  "delete": "Delete",
+  "taskTitleLabel": "Task",
+  "taskStatusLabel": "Status",
+  "taskPriorityLabel": "Priority",
+  "taskSuggestions": "Task Suggestions",
+  "noSuggestionsAvailable": "No suggestions available for this task",
+  "relatedTasks": "Related Tasks",
+  "subTasks": "Sub Tasks",
+  
+
+ 
+  "pageNotFound": "Page Not Found",
+  "pageNotFoundMessage": "Sorry, the requested page could not be found.",
+  "goBack": "Go Back",
+
+  "navHome": "Home",
+  "navAchievments": "Trofies",
+  "navFocusMode": "Focus Mode",
+  "navSettings": "Settings",
+
+
+
+
+
+  "priorityNone": "None",
+"priorityLow": "Low",
+"priorityMedium": "Medium",
+"priorityHigh": "High",
+"priorityUrgent": "Urgent",
+
+"repeatWeeklyLabel": "Repeat weekly on day",
+"repeatHint": "Select repeat day (optional)",
+"monday": "Monday",
+"tuesday": "Tuesday",
+"wednesday": "Wednesday",
+"thursday": "Thursday",
+"friday": "Friday",
+"saturday": "Saturday",
+"sunday": "Sunday",
+"@repeatWeeklyLabel": {
+  "description": "Label for the recurring day dropdown"
+},
+
+
+
+"badge_1_name": "The Beginning",
+"badge_1_description": "Complete your first task",
+"badge_2_name": "Early Riser",
+"badge_2_description": "Complete a task before 9 AM",
+"badge_3_name": "Organizer",
+"badge_3_description": "Reach level 5 in the task app",
+"badge_4_name": "Streak Starter",
+"badge_4_description": "Complete tasks two days in a row",
+"badge_5_name": "Digital Cleaner",
+"badge_5_description": "Delete 3 old completed tasks",
+"badge_6_name": "Committed",
+"badge_6_description": "Complete a task daily for 5 days",
+"badge_7_name": "All Done",
+"badge_7_description": "Complete all your tasks in one day",
+"badge_8_name": "Planner",
+"badge_8_description": "Add 10 new tasks in a week",
+"badge_9_name": "Focused",
+"badge_9_description": "Use focus mode 3 times",
+"badge_10_name": "Leader",
+"badge_10_description": "Reach level 10 in the task app",
+"badge_11_name": "Ten in a Day",
+"badge_11_description": "Complete 10 tasks in one day",
+"badge_12_name": "No Breaks",
+"badge_12_description": "Complete tasks for 7 consecutive days",
+"badge_13_name": "Resilient",
+"badge_13_description": "Reach level 20 in the task app",
+"badge_14_name": "The Flame",
+"badge_14_description": "Maintain a 14-day streak",
+"badge_15_name": "Time Master",
+"badge_15_description": "Complete a task on time",
+"badge_16_name": "The Master",
+"badge_16_description": "Complete 100 tasks",
+"badge_17_name": "Yearly Planner",
+"badge_17_description": "Reach level 40 in the task app",
+"badge_18_name": "Balanced",
+"badge_18_description": "Complete diverse tasks in one day",
+"badge_19_name": "The Legend",
+"badge_19_description": "Complete all your tasks 7 days in a row",
+"badge_20_name": "Golden Legend",
+"badge_20_description": "Earn 10,000 XP",
+"badge_21_name": "Pro",
+"badge_21_description": "Reach level 50 in the task app",
+
+
+
+"morning_suggestion_title": "Morning Suggestion",
+  "morning_suggestion_body": "You have {count} high priority tasks for this morning! 🌅",
+  "@morning_suggestion_body": {
+    "description": "Notification showing count of high priority tasks",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "3"
+      }
+    }
+  },
+  
+  "smart_tracking_title": "Smart Tracking",
+  
+  "reminder_title": "Reminder",
+  "low_productivity_body": "You can do better! Try focusing on one task 🚀",
+  "congrats_title": "Congratulations!",
+  "high_productivity_body": "Amazing! You've completed most of your tasks today! 🎉",
+  
+  "alert_title": "Alert",
+  "critical_tasks_body": "Attention! {count} tasks are due soon ⏰",
+  "@critical_tasks_body": {
+    "description": "Alert for critical tasks nearing deadline",
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  
+  "focus_mode_title": "Focus Mode",
+  "focus_mode_active_body": "Focus mode is active! Time to get things done 💪",
+  "focus_suggestion_body": "You can activate focus mode to improve your productivity 📵",
+  
+  "daily_recommendations_title": "Daily Recommendations",
+  "recurring_tasks_body": "Today is {dayName}. You have: {count} recurring tasks 🔄",
+  "@recurring_tasks_body": {
+    "description": "Notification for recurring tasks on specific day",
+    "placeholders": {
+      "dayName": {
+        "type": "String",
+        "example": "Monday"
+      },
+      "count": {
+        "type": "int",
+        "example": "4"
+      }
+    }
+  },
+  
+  "add_recurring_reminder": "Don't forget to add your recurring tasks for today! 📅",
+  "no_tasks_body": "No tasks yet! 🤔",
+
+"activeNotification": "Enable Notifications",
+"notificationToggleSuccess": "Notifications {status} successfully",
+"notificationEnabled": "enabled",
+"notificationDisabled": "disabled",
+"@notificationToggleSuccess": {
+  "description": "Confirmation message for notification status change",
+  "placeholders": {
+    "status": {
+      "type": "String",
+      "example": "enabled"
+    }
+  }
+},
+
+"vibrationSettings": "Notification Vibration",
+"vibrationToggleSuccess": "Notification vibration {status} successfully",
+"vibrationEnabled": "enabled",
+"vibrationDisabled": "disabled",
+"@vibrationToggleSuccess": {
+  "description": "Confirmation message for notification vibration change",
+  "placeholders": {
+    "status": {
+      "type": "String",
+      "example": "enabled"
+    }
+  }
+},
+"notificationPermissionWarning": "Permission required to enable notifications",
+"grantNotificationAccessDescription": "Notification permission is required to receive alerts",
+"notificationPermissionRequired": "Notification permission is required to use this feature",
+
+
+"geoHomeMessage": "🌙 Time to review your evening tasks at home!",
+  "geoWorkMessage": "🧑‍💻 Don’t forget to organize your work tasks now.",
+  "geoGymMessage": "🏋️‍♂️ Reminder for health and fitness tasks!",
+
+  
+  "work": "Work",
+  "personal": "Personal",
+  "shopping": "Shopping",
+  "fitness": "Fitness",
+  "study": "Study",
+  "health": "Health",
+  "finance": "Finance"
+}

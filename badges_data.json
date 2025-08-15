@@ -1,0 +1,162 @@
+[
+  {
+    "id": "badge_1",
+    "name": "البدايات",
+    "description": "أكمل أول مهمة لك",
+    "xpReward": 10,
+    "iconAsset": "assets/badges/start.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_2",
+    "name": "المستيقظ المبكر",
+    "description": "أكمل مهمة قبل الساعة 9 صباحًا",
+    "xpReward": 15,
+    "iconAsset": "assets/badges/morning.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_3",
+    "name": "المنظم",
+    "description": "استخدم فئة لتنظيم مهمة واحدة على الأقل",
+    "xpReward": 15,
+    "iconAsset": "assets/badges/organize.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_4",
+    "name": "المتسلسل",
+    "description": "أنجز مهامًا ليومين متتاليين",
+    "xpReward": 20,
+    "iconAsset": "assets/badges/streak_2.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_5",
+    "name": "المنظف الرقمي",
+    "description": "احذف 3 مهام منتهية قديمة",
+    "xpReward": 20,
+    "iconAsset": "assets/badges/cleaner.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_6",
+    "name": "الملتزم",
+    "description": "أنجز مهمة يوميًا لمدة 5 أيام",
+    "xpReward": 30,
+    "iconAsset": "assets/badges/calendar_check.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_7",
+    "name": "مكتمل",
+    "description": "أكمل كل مهامك في يوم",
+    "xpReward": 35,
+    "iconAsset": "assets/badges/completed.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_8",
+    "name": "المخطط",
+    "description": "أضف 10 مهام جديدة في أسبوع",
+    "xpReward": 30,
+    "iconAsset": "assets/badges/planner.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_9",
+    "name": "المركز",
+    "description": "استخدم وضع التركيز 3 مرات",
+    "xpReward": 25,
+    "iconAsset": "assets/badges/focus.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_10",
+    "name": "القائد",
+    "description": "شارك إنجازاتك 3 مرات",
+    "xpReward": 30,
+    "iconAsset": "assets/badges/leader.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_11",
+    "name": "العشاري",
+    "description": "أنجز 10 مهام في يوم",
+    "xpReward": 50,
+    "iconAsset": "assets/badges/ten_tasks.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_12",
+    "name": "بلا انقطاع",
+    "description": "أنجز 7 أيام متواصلة",
+    "xpReward": 60,
+    "iconAsset": "assets/badges/no_break.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_13",
+    "name": "المقاوم",
+    "description": "استخدم وضع عدم الإزعاج 4 ساعات",
+    "xpReward": 45,
+    "iconAsset": "assets/badges/no_distraction.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_14",
+    "name": "الشُعلة",
+    "description": "حافظ على streak 14 يوم",
+    "xpReward": 70,
+    "iconAsset": "assets/badges/flame.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_15",
+    "name": "متقن الوقت",
+    "description": "أنجز مهمة بالتوقيت المحدد",
+    "xpReward": 40,
+    "iconAsset": "assets/badges/clock.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_16",
+    "name": "المتقن",
+    "description": "أكمل 100 مهمة",
+    "xpReward": 100,
+    "iconAsset": "assets/badges/master.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_17",
+    "name": "المخطط السنوي",
+    "description": "استخدم التقويم لـ30 يوم",
+    "xpReward": 90,
+    "iconAsset": "assets/badges/calendar_month.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_18",
+    "name": "المتزن",
+    "description": "أكمل مهام متنوعة في يوم",
+    "xpReward": 80,
+    "iconAsset": "assets/badges/balance.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_19",
+    "name": "الأسطورة",
+    "description": "أكمل كل مهامك 7 أيام متتالية",
+    "xpReward": 120,
+    "iconAsset": "assets/badges/legend.svg",
+    "isSecret": false
+  },
+  {
+    "id": "badge_20",
+    "name": "الأسطورة الذهبية",
+    "description": "اجمع 1000 XP",
+    "xpReward": 150,
+    "iconAsset": "assets/badges/gold_legend.svg",
+    "isSecret": false
+  }
+]

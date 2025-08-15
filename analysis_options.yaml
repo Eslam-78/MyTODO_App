@@ -1,0 +1,28 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  strong-mode:
+    implicit-casts: false
+    implicit-dynamic: false
+  errors:
+    missing_required_param: error
+    invalid_override: error
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+
+linter:
+  rules:
+    avoid_print: true
+    prefer_const_constructors: true
+    prefer_final_locals: true
+    curly_braces_in_flow_control_structures: true
+    prefer_null_aware_operators: true
+    avoid_unnecessary_containers: true
+    sort_child_properties_last: true  # يرتب خصائص الطفل في الـ Widgets في النهاية
+
+# If you are looking for formatting options, consider using a tool like `dart format`.
+# Dart format can be run from the command line using `dart format .` to format your codebase.
+
+flutter:
+  uses-material-design: true
